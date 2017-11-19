@@ -1,0 +1,1 @@
+Python implementation of the A* algorithm for finding the shortest path through a text-based maze
